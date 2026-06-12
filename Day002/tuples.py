@@ -2,3 +2,4 @@
 
 fruits = ("apples", "oranges", "grapes")
 print(fruits)
+
