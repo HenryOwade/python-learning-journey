@@ -23,3 +23,18 @@ print(student)
 del student["city"]
 
 print(student)
+
+student = {
+    "name": "Henry",
+    "age": 25,
+    "country": "Kenya",
+    "county": "Kiambu",
+    "village": "Juja",
+    "course": "Python"
+}
+
+print(student)
+
+student ["city"] = "Nairobi"
+
+print(student)
